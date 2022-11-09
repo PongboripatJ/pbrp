@@ -1,0 +1,134 @@
+@font-face {
+    font-family: Efont;
+    src: url(./font/playfair.ttf);
+}
+
+@font-face {
+    font-family: Tfont;
+    src: url(./font/noto.ttf);
+}
+
+.navbar {
+    padding: 20px 0px;
+    font-family: Efont;
+}
+
+.home{
+    margin-left: 100px;
+    color: black;
+}
+
+.bgorange {
+    background-color: #E9856C;
+}
+
+.bgblue {
+    background-color: #0D1F2D;
+}
+
+.col1 {
+    margin: 120px 0px; 
+}
+
+.pimg{
+    margin: 90px 0px;
+    border-radius: 47%;
+    height: 200px;
+}
+
+.head{
+    font-family: Efont;
+    color: white;
+    font-size: 50px;
+    padding: 100px 0px 70px; 
+}
+
+.dhead{
+    font-family: Efont;
+    color: #0D1F2D;
+    font-size: 40px;
+}
+
+.dcontent{
+    font-family: Tfont;
+    color: #0D1F2D;
+    font-size: 25px;
+}
+
+.dcontent2{
+    font-family: Tfont;
+    color: #0D1F2D;
+    font-size: 17px;
+    margin-bottom: 90px;
+}
+
+.head2{
+    font-family: Efont;
+    color: #0D1F2D;
+    font-size: 50px;
+    text-align: center;
+    margin: 90px 0px;
+}
+
+.dcontent3{
+    font-family: Tfont;
+    color: #0D1F2D;
+    font-size: 17px;
+    margin-left: 150px;
+    margin-top: 30px;
+}
+
+.ftext {
+    padding-top: 15px  ;
+    font-family: Efont;
+    text-align: center;
+}
+
+.cer1 {
+    width: 450px;
+    height: 300px;
+    margin-left: 30px;
+}
+
+.cer2 {
+    width: 450px;
+    height: 300px;
+    margin-top: 100px;
+    border-radius: 3%;
+}
+
+.cerht {
+    font-family: Tfont;
+    font-size: 20px;
+    text-align: left;
+}
+
+.cerdt {
+    font-family: Tfont;
+    font-size: 18px;
+    text-align: left;
+}
+
+.mgt{
+    margin-top: 40px;
+}
+
+.mg{
+    margin: 100px 0px;
+}
+
+.tac {
+    font-family: Tfont;
+    color: white;
+}
+
+.cont{
+    font-family: Efont;
+    font-size: 20px;
+}
+
+.ig{
+    margin-right: 50px;
+    height: 200px;
+    width: 200px;
+}
